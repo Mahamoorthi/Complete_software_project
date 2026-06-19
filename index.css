@@ -1,0 +1,40 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(57, 194, 228);
+    margin-top: 40px;
+}
+.dict_input{
+    height: 50px;
+    width: 350px;
+    margin-left: 500px;
+    margin-top: 20px;
+    font-size: larger;
+    border-radius: 5px;
+    background-color: rgb(21, 154, 236);
+    color: white;
+    font-style: italic;
+}
+.btn{
+    height: 40px;
+    width: 120px;
+    margin-left: 630px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgb(101, 207, 234);
+    color: white;
+}
+.content-dict{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 280px;
+    height: fit-content;
+    width: 800px;
+    background-color: rgb(55, 177, 208);
+    padding: 30px;
+    margin-top: 15px;
+    color: white;
+    border-radius: 20px;
+    
+}
